@@ -53,7 +53,7 @@ The analysis explores 10 questions:
 
 ## Project Structure
 
-`music_store_analysis.sql` — Contains the 10 SQL queries used to perform the analysis.
+`Music_Store_Analysis.sql` — Contains the 10 SQL queries used to perform the analysis.
 
 ## Purpose
 
